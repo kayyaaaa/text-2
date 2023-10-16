@@ -1,0 +1,26 @@
+.p1{
+    color: #777;
+    text-align: center;
+    width: 350px;
+    height: 160px;
+    font-size: 16px;
+    
+    
+}
+.h1{
+    color: #001AFF;
+    text-align: center;
+    width: 1280px;
+    height: 26px;
+    font-size: 16px;
+    
+}
+.p2{
+    color: #F00;
+    text-align: justify;
+    font-size: 16px;
+    width: 350px;
+    height: 160px;
+    margin-left: 72px;
+    
+}
